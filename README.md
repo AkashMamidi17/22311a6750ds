@@ -11,7 +11,7 @@ npm run dev
 # Run Python ML processor (optional)
 python3 ml_backend.py
 
-## How It Works
+## How Application Works
 
 ### 1. Claim Submission
 - User fills out simple form with claim details
